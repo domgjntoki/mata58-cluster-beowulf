@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "username": "so",
+      "password": "01",
+        "ip": "192.168.0.47",
+        "name": "node1"
+    },
+    {
+      "username": "so",
+      "password": "01",
+      "ip": "192.168.0.48",
+      "name": "node2"
+    }
+  ]
+}
